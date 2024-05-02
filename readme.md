@@ -1,7 +1,8 @@
 # Akari Pro
 使用 RP2040 + PN532 制作的适用于SEGA/KONAMI Aime 兼容读卡器，KairoTech闲鱼出售商品（现已经被Akari II替代）  
 
-##由于剩余大量物料，加群645758744可以付邮送一些~
+由于剩余大量物料，加群645758744可以付邮送一些~
+![image](成品图/IMG_4.JPG)
 
 - 支持卡片类型: [FeliCa](https://zh.wikipedia.org/wiki/FeliCa)（Amusement IC、Suica、八达通等）和 [MIFARE](https://zh.wikipedia.org/wiki/MIFARE)（Aime，Banapassport）
 - 固件基于Mahuyo大佬的[Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader/blob/main/README.md)，十分感谢大佬Orz
