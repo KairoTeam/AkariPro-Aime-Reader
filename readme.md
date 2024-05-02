@@ -25,6 +25,9 @@
 - 磁铁: 淘宝鑫涌泉磁业[小圆形磁铁](https://m.tb.cn/h.gYnSHoJE2Vr6VK5?tk=gqvIWHJ1VeJ)
 
 ### 图片
+![image](成品图/IMG_1.JPG)
+![image](成品图/IMG_2.JPG)
+![image](成品图/IMG_3.JPG)
 
 ### 引用库：
 - 固件: [Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader/blob/main/README.md)
